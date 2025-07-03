@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-I'm a **Junior DevOps Engineer** with a good programming foundation acquired at 42 Roma Luiss. I've since focused my path on **DevOps**, specializing in containerization (**Docker**), CI/CD (**GitHub Actions**), and infrastructure automation (**Ansible**). I have practical experience with **AWS** and in scripting with **Bash** and **Python** to optimize workflows.
+I'm a **Junior DevOps Engineer** with a good programming foundation acquired at **42 Roma Luiss**. I've since focused my path on **DevOps**, specializing in containerization (**Docker**), CI/CD (**GitHub Actions**), and infrastructure automation (**Ansible**). I have practical experience with **AWS** and in scripting with **Bash** and **Python** to optimize workflows.
 I'm a **curious** and **analytical** individual with a strong passion for **continuous learning**. I enjoy working in dynamic teams and tackling technological challenges in environments where **reliability**, **scalability**, and **precision** are essential.
 
 ---
