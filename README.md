@@ -13,7 +13,7 @@ I'm a **curious** and **analytical** individual with a strong passion for **cont
 
 ## 🛠️ Technical Skills
 
-**Programming Languages**  
+**Programming Languages and frameworks**  
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,bash,python,django,md,javascript,typescript,angular&theme=dark)](https://skillicons.dev)
 
